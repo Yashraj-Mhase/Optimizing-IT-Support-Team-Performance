@@ -1,0 +1,47 @@
+Week 1
+
+Started off the project by learning importance of data cleaning.
+Raw datasets contains missing values,duplicates,null,etc.
+
+
+Data cleaning ensures:
+- Accurate analysis  
+- Reliable visualizations  
+- Better decision making
+
+The process include :
+   1. Data Collection: Collecting the data(excel,csv,databases).
+   2. Data Transformation: Transform(extracting the data and clean it).
+   3. Data Visualization: Visualize.
+
+
+Tools 
+-Python : To clean the data ,automation
+-PowerBI: Visualize,data transformation
+
+Learned about the power query
+Common cleaning steps include:
+  -setting correct data types
+  -removing null values
+  -splitting columns
+  -trimming the extra spaces
+  -standardizing data
+  -remove duplicates
+
+Views in PowerBI:
+1.Table view: To check the data,displays the actual data stored in table after cleaning. 
+2.Model view: To understand the relationships,manage realtionships and schema design shows how tables are connected.
+3.Report view: To create visualizations and understand data visually.
+
+
+Reports (static analysis) and Dashboards(interactive monitoring)
+Time series: Use Line chart
+
+
+Task: collect data based on IT support tickets and understand the data
+
+
+Presentation (final part)
+1.Documentation
+2.Upload files to github
+3.Interactive dashboards-"optimal dashbords"
